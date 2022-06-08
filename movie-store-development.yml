@@ -6,4 +6,4 @@ server:
   port: 0
 
 user:
-  role: TEST_1
+  role: TEST_123
